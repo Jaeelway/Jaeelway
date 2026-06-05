@@ -17,16 +17,18 @@ Sei inglês! E estou aprendendo à pronunciar e falar inglês aos poucos, mas no
 * Tkinter
 * Lógica de Programação
 
+Frequentemente fazendo mini projetos em Python 🐇
+
 
 ## 🇺🇸 About me
 
 # Hi there! I'm Jae 👋
 
-- Computer Engineering student currently learning Python, Git and software development (1 period);
+- Computer Engineering student currently learning Python, Git and software development (1st semester);
 - Currently learning Python;
 - Working on mini-projects and learning programming little by little;
 - Interested in technology, graphical interfaces, automation, and software development;
-- My pronouns are: ✨ any one ✨
+- My pronouns are: ✨ any pronouns ✨
 
 I know English! I'm learning to pronounce and speak English little by little, but overall, I can read and write in English.
 
@@ -36,3 +38,5 @@ Currently learning:
 * Git and GitHub
 * Tkinter
 * Programming Logic
+
+Currently building mini projects with Python 🐇
