@@ -7,7 +7,7 @@
 # Oi! eu sou Jae 👋
 
 - Estudante de Engenharia da Computação (1 período);
-- Atualmente estudando Python;
+- Atualmente estudando Python e Java;
 - Fazendo mini projetos e aprendendo programação aos poucos;
 - Interessado em tecnologia, interfaces gráficas, automação e desenvolvimento de software;
 - Meus pronomes são: ✨ qualquer um ✨
@@ -29,7 +29,7 @@ Frequentemente fazendo mini projetos em Python 🐇
 # Hi there! I'm Jae 👋
 
 - Computer Engineering student currently learning Python, Git and software development (1st semester);
-- Currently learning Python;
+- Currently learning Python and Java;
 - Working on mini-projects and learning programming little by little;
 - Interested in technology, graphical interfaces, automation, and software development;
 - My pronouns are: ✨ any pronouns ✨
