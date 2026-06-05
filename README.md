@@ -1,8 +1,5 @@
 ## 🇧🇷 Sobre mim
 
-<!--
-**Jaeelway/Jaeelway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Oi! eu sou Jae 👋
 
 - Estudante de Engenharia da Computação (1 período);
