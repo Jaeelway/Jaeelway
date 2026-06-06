@@ -17,6 +17,7 @@ Sei inglês! E estou aprendendo à pronunciar e falar inglês aos poucos, mas no
 ## Atualmente aprendendo
 
 * Python
+* Java
 * Git & GitHub
 * Tkinter
 * Lógica de Programação
@@ -39,6 +40,7 @@ I know English! I'm learning to pronounce and speak English little by little, bu
 Currently learning:
 
 * Python
+* Java
 * Git and GitHub
 * Tkinter
 * Programming Logic
